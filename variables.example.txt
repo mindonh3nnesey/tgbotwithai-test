@@ -1,0 +1,10 @@
+# Скопируй этот файл в variables.txt и впиши свои настоящие ключи.
+# variables.txt в .gitignore — он никогда не должен попасть в Git.
+
+TOKEN your_telegram_bot_token
+OPENWEATHER_KEY your_openweather_api_key
+OPENROUTER_KEY your_openrouter_api_key
+CITY Rostov-na-Donu
+MOM_CHAT_IDS 549864131,8987266887
+WATCH_USER_IDS 549864131,8987266887
+TARGET_CHANNEL_ID -1004360677978
